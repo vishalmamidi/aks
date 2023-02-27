@@ -3,3 +3,6 @@
 ```
 az aks addon list –name <cluster_name>  --resource-group <rg>
 ```
+```
+kubectl get crd
+```
